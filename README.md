@@ -11,7 +11,7 @@
 
 You can connect with me on these social platforms:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](Dnyaneshwari Rade)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)]
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2022.svg)](https://instagram.com/dnyaneshwari_rade_1922)
 
 ## 📧 Contact
