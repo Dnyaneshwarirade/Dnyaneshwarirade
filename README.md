@@ -8,6 +8,8 @@
 - **Database**: MySQL.
 
 ## 🌐 Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/dnyaneshwari-rade-838175362/)
+
 Linked in :www.linkedin.com/in/dnyaneshwari-rade-838175362
 Instagram :[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/dnyaneshwari_rade_1922/)
 
