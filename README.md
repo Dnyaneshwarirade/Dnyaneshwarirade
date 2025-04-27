@@ -9,11 +9,8 @@
 
 ## 🌐 Social Media
 
-You can connect with me on these social platforms:
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24"/>](https://www.linkedin.com/in/www.linkedin.com/in/
-dnyaneshwari-rade-838175362
-Vanity URL name
-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/
+dnyaneshwari-rade/)
 
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2022.svg)](https://instagram.com/dnyaneshwari_rade_1922)
 
