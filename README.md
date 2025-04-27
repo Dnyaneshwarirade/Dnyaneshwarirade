@@ -4,18 +4,19 @@
 
 ## 🔧 Skills
 
-- **Languages**: JavaScript, Python, Java, C, HTML, CSS.
 - **Database**: MySQL.
+- **Programming Language** :C++,Java,Python.
+- **Web Development** :HTML,CSS 
 
 ## 🌐 Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/dnyaneshwari-rade-838175362/)
-Instagram :[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/dnyaneshwari_rade_1922/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/dnyaneshwari_rade_1922/)
 
 
 ## 📧 Contact
 
 You can reach me at my email:  
-**[dnyanu647@gmail.com](mailto:your.email@example.com)**
+**[dnyaneshwarir19@gmail.com](mailto:your.email@example.com)**
 
 ## 🚀 Interests
 
